@@ -63,7 +63,7 @@ linkedin:           andrew-dinh-237a3216a
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
