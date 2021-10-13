@@ -1,0 +1,14 @@
+{
+  "name": "adinh254.github.io",
+  "version": "1.0.0",
+  "description": "\"Andrew's Portfolio\"",
+  "main": "index.js",
+  "repository": "https://github.com/adinh254/adinh254.github.io.git",
+  "author": "Andrew Dinh <adinh254@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "typescript": "^4.4.4"
+  }
+}
