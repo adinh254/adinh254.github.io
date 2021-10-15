@@ -30,8 +30,8 @@ function styles() {
 
 function stylesVendors() {
   return gulp
-    .src([ '_sass/vendors/*.css' ])
-    .pipe(concat('vendors.min.css'))
+    .src([ '_sass/vendor/*.css' ])
+    .pipe(concat('vendor.min.css'))
     .pipe(cssnano())
     .pipe(gulp.dest('_site/assets/css/'))
     .pipe(gulp.dest('assets/css'));
